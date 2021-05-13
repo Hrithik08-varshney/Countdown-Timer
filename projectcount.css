@@ -1,0 +1,39 @@
+body {
+    background-color:cornsilk;
+    text-align: center;
+    margin-top: 80px;
+}
+
+#heading {
+    font-size: 75px;
+}
+#outerdiv {
+    background-color: white;
+    border-radius: 10px;
+    width: 700px;
+    text-align: center;
+    margin-left: 410px;
+}
+#countdiv {
+    background-color: bisque;
+    width: 400px;
+    border: 8px ;
+    text-align: center;
+    padding: 1px;
+    margin-left: 140px;
+}
+#btn {
+    font-size: 35px;
+    padding: 10px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+#btnstop {
+    font-size: 35px;
+    padding: 10px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+#countpara {
+    font-size: 70px;
+}
